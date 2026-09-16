@@ -4,7 +4,7 @@ function createBot() {
     const bot = mineflayer.createBot({
         host: 'gold.magmanode.com', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
         port: 28846,                // Puerto predeterminado de Minecraft
-        username: 'Raboot_356',    // Nombre gen茅rico del bot/NPC dentro del juego
+        username: 'elgunestich_bot',    // Nombre gen茅rico del bot/NPC dentro del juego
         version: false              // Autodetecta la versi贸n exacta del servidor (1.8 a 1.21+)
     });
 
